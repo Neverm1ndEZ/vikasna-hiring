@@ -1,0 +1,7 @@
+#landing_hero {
+    background-color: #00D901;
+    background-image: url('../assets/bg_landing_hero.jpeg');
+    background-blend-mode:darken;
+    background-repeat: repeat;
+    
+}

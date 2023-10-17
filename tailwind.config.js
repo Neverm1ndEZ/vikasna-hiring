@@ -4,9 +4,12 @@ export default {
 	theme: {
 		extend: {
 			fontFamily: {
-				SF: ["SF Pro Display", "sans-serif"],
-				PS2P: ["Press Start 2P", "cursive"],
+				sf: ["SF Pro Display", "sans-serif"],
+				start: "'Press Start 2P'",
 				Inter: ["Inter", "sans-serif"],
+				monument: 'monument',
+				obra: 'obrazec',
+				sherika: 'sherika',
 			},
 		},
 	},

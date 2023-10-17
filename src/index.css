@@ -1,7 +1,9 @@
 /* SF Pro */
 @import url("https://fonts.cdnfonts.com/css/sf-pro-display?styles=98774,98773,98770");
 /* Press Start 2P */
-@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
 /* Obrazec 2.0 */
 /* Inter */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
@@ -13,3 +15,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'obrazec';
+    src: url('./fonts/Obrazec.otf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'monument';
+    src: url('./fonts/MonumentExtended-Regular.otf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'monument';
+    src: url('./fonts/MonumentExtended-Ultrabold.otf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'sherika';
+    src: url('./fonts/sherika-extrabold.otf');
+    
+}
